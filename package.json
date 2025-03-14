@@ -1,0 +1,25 @@
+{
+  "name": "projetoestudo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HubOpsVitor/ProjetoEstudo.git"
+  },
+  "author": "Allan Vítor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HubOpsVitor/ProjetoEstudo/issues"
+  },
+  "homepage": "https://github.com/HubOpsVitor/ProjetoEstudo#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "mongoose": "^8.12.1",
+    "morgan": "^1.10.0"
+  }
+}
